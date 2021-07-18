@@ -58,7 +58,7 @@ This string starts with the vowel a but ends in the vowel o.
 
 Code:
 
-// add your Code in function regexVar in Row 93
+// add your Code in function regexVar in Row 96
 
 'use strict';
 
@@ -86,8 +86,11 @@ return inputString[currentLine++];
 }
 
 function regexVar() {
+
+
 /\*
 _ Declare a RegExp object variable named 're'
+
 _ It must match a string that starts and ends with the same vowel (i.e., {a, e, i, o, u})
 \*/
 
